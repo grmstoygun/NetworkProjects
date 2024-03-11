@@ -1,2 +1,2 @@
 # NetworkProjects
-Course projects of Principles of Computer Communications 
+My projects of BLG337 Principles of Computer Communications course at ITU
